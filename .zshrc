@@ -93,6 +93,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-export PATH="/usr/local/bin:${HOME}/.scalaenv/bin:${PATH}"
-eval "$(scalaenv init -)"
+
+export GOPATH=~/go
+#export PATH="/usr/local/bin:${HOME}/.scalaenv/bin:${PATH}"
+export PATH="/usr/local/bin:${PATH}:${GOPATH}/bin"
+# eval "$(scalaenv init -)"
 

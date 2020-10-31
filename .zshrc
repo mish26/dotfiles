@@ -99,3 +99,4 @@ export GOPATH=~/go
 export PATH="/usr/local/bin:${PATH}:${GOPATH}/bin"
 # eval "$(scalaenv init -)"
 
+export PATH=$PATH:~/.nodebrew/current/bin

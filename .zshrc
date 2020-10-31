@@ -95,7 +95,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export GOPATH=~/go
-#export PATH="/usr/local/bin:${HOME}/.scalaenv/bin:${PATH}"
 export PATH="/usr/local/bin:${PATH}:${GOPATH}/bin"
-# eval "$(scalaenv init -)"
-
+export PATH=$PATH:~/.nodebrew/current/bin

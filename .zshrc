@@ -94,6 +94,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export GOPATH=~/go
+export GOPATH=~/workspace/go
 export PATH="/usr/local/bin:${PATH}:${GOPATH}/bin"
 export PATH=$PATH:~/.nodebrew/current/bin
+
+alias ll='ls -al'
+

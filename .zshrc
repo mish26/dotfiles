@@ -98,5 +98,5 @@ export GOPATH=~/workspace/go
 export PATH="/usr/local/bin:${PATH}:${GOPATH}/bin"
 export PATH=$PATH:~/.nodebrew/current/bin
 
-alias ll='ls -al'
+alias ll='ls -alh'
 

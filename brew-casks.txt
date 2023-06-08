@@ -1,0 +1,14 @@
+clipy
+cyberduck
+deepl
+discord
+docker
+firefox
+google-cloud-sdk
+kindle
+libreoffice
+mysqlworkbench
+notion
+raycast
+toggl-track
+xmind

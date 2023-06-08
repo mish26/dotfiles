@@ -15,3 +15,14 @@ xmind
 iterm2
 google-chrome
 1password
+intellij-idea
+atom
+visual-studio-code
+android-studio
+realforce
+kobo
+gather
+zoom
+google-japanese-ime
+slack
+aws-vpn-client

@@ -99,4 +99,19 @@ export PATH="/usr/local/bin:${PATH}:${GOPATH}/bin"
 export PATH=$PATH:~/.nodebrew/current/bin
 
 alias ll='ls -alh'
+alias dl='docker-compose logs -f --tail=500'
+alias rgf='rg --files | rg'
+alias go='/Users/miyaharashuusaku/sdk/go1.18.4/bin/go'
 
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+export PATH="/usr/local/opt/openjdk@11/bin:$PATH"
+
+# export GOENV_ROOT="$HOME/.goenv"
+# export PATH="$GOENV_ROOT/bin:$PATH"
+# eval "$(goenv init -)"
+
+# export PATH="$PATH:/usr/local/Cellar"
+
+
+. /usr/local/opt/asdf/libexec/asdf.sh

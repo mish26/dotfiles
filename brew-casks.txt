@@ -14,3 +14,4 @@ toggl-track
 xmind
 iterm2
 google-chrome
+1password

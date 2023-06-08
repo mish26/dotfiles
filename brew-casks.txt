@@ -27,3 +27,4 @@ google-japanese-ime
 slack
 aws-vpn-client
 dropbox
+shiftit

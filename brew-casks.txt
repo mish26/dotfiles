@@ -12,3 +12,4 @@ notion
 raycast
 toggl-track
 xmind
+iterm2
